@@ -1,4 +1,5 @@
 # 💫 About Me:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay-136&label=Profile%20views&color=0e75b6&style=flat" alt="akshay-136" /> </p>
 🌱 I’m currently learning nodejs ,MongoDB<br><br>👨‍💻 All of my projects are available at https://akshay-fawn.vercel.app/<br><br>💬 Ask me about C++,python,sql,react<br><br>📫 How to reach me akshaychandel452@gmail.com
 
 
