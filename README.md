@@ -1,7 +1,7 @@
 # 💫 About Me:
 <img align="right" alt="Coding" width="500" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4799u0c9usk8pl8006hw38mrg4o97508d3866vqpbh&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay-136&label=Profile%20views&color=0e75b6&style=flat" alt="akshay-136" /> </p>
-🌱 I’m currently learning Nodejs ,MongoDB<br><br>👨‍💻 All of my projects are available at https://akshay-fawn.vercel.app/<br><br>💬 Ask me about C++,Python,Numpy,Pandas,Sql,React,,Html,Css<br><br>📫 How to reach me akshaychandel452@gmail.com 
+🌱 I’m currently learning Nodejs ,MongoDB<br><br>👨‍💻 All of my projects are available at https://akshay-chi.vercel.app/<br><br>💬 Ask me about C++,Python,Numpy,Pandas,Sql,React,,Html,Css<br><br>📫 How to reach me akshaychandel452@gmail.com 
  
  
 ## 🌐 Socials:
